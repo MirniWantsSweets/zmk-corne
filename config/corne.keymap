@@ -51,7 +51,7 @@
 
         Both {
             bindings = <
-&kp ESC  &kp K_MUTE    &kp C_VOL_DN  &kp C_VOL_UP  &kp K_PLAY_PAUSE  &tog 4          &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &bt BT_CLR
+&kp ESC  &kp K_MUTE    &kp C_VOL_DN  &kp C_VOL_UP  &kp K_PLAY_PAUSE  &to 4           &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &bt BT_CLR
 &kp F1   &kp F2        &kp F3        &kp F4        &kp F5            &kp F6          &kp F7        &kp F8        &kp F9        &kp F10       &kp F11       &kp F12
 &trans   &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4      &kp NUMBER_5    &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0  &trans
                                      &kp LALT      &trans            &trans          &trans        &trans        &kp RALT
