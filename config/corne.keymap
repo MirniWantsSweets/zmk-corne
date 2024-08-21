@@ -36,10 +36,10 @@
 
         Lower {
             bindings = <
-&kp ESC  &kp EXCL  &kp AT         &kp HASH          &kp DLLR         &kp PRCNT    &kp N7  &kp N8  &kp N9  &none   &none   &trans
-&trans   &none     &kp C_AC_FIND  &kp C_PLAY_PAUSE  &kp C_AL_COFFEE  &none        &kp N4  &kp N5  &kp N6  &none   &none   &kp BSLH
-&trans   &none     &none          &none             &kp C_AL_FILES   &none        &kp N1  &kp N2  &kp N3  &trans  &trans  &trans
-                                  &trans            &trans           &trans       &trans  &trans  &kp N0
+&kp ESC  &kp EXCL  &kp AT     &kp HASH          &kp DLLR    &kp PRCNT    &kp N7  &kp N8  &kp N9  &none   &none   &trans
+&trans   &none     &kp LG(S)  &kp C_PLAY_PAUSE  &kp K_LOCK  &none        &kp N4  &kp N5  &kp N6  &none   &none   &kp BSLH
+&trans   &none     &none      &none             &kp LG(E)   &none        &kp N1  &kp N2  &kp N3  &trans  &trans  &trans
+                              &trans            &trans      &trans       &trans  &trans  &kp N0
             >;
 
             label = "Lower";
